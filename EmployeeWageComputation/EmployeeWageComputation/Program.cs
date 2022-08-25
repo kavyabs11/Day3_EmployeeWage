@@ -1,7 +1,7 @@
 ﻿
         
             using EmployeeWageComputation;
-            SwitchCase emp = new SwitchCase();
+            MonthlyWage emp = new MonthlyWage();
             emp.Wage();
 
       
