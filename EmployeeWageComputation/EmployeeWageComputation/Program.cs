@@ -1,7 +1,7 @@
 ﻿
         
             using EmployeeWageComputation;
-            PartTime emp = new PartTime();
+            SwitchCase emp = new SwitchCase();
             emp.Wage();
 
       
