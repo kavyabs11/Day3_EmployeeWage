@@ -1,7 +1,7 @@
 ﻿
         
             using EmployeeWageComputation;
-            PrasentorAbsent emp = new PrasentorAbsent();
+            PartTime emp = new PartTime();
             emp.Wage();
 
       
