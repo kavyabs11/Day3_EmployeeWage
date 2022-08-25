@@ -1,7 +1,7 @@
 ﻿
         
             using EmployeeWageComputation;
-            MonthlyWage emp = new MonthlyWage();
+CheckingLimits emp = new CheckingLimits();
             emp.Wage();
 
       
